@@ -6,16 +6,16 @@
 Labubu Theme is a browser extension that **does not collect, store, or transmit any personal data**. All settings are stored locally on your device.
 
 ## Data Collection
-- **No personal information collected**
-- **No tracking or analytics**
-- **No data transmitted to servers**
-- All preferences stored locally in browser storage
+- **No personal information collected.**
+- **No tracking or analytics.**
+- **No data transmitted to servers.**
+- All preferences stored locally in browser storage.
 
 ## Permissions
 The extension requires minimal permissions:
-- **Storage**: Save theme settings locally
-- **Active Tab**: Apply visual themes
-- **Scripting**: Inject CSS styles
+- **Storage**: Save theme settings locally.
+- **Active Tab**: Apply visual themes.
+- **Scripting**: Inject CSS styles.
 
 ## Your Data
 - Stays on your device only.
