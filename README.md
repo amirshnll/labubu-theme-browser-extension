@@ -111,7 +111,7 @@ This project is open source and available under the [Apache License 2.0](LICENSE
 
 ## 🙏 Acknowledgments
 
-- Images from Unsplash by [davidkristianto](https://unsplash.com/@davidkristianto), [declansun](https://unsplash.com/@declansun).
+- Images from Unsplash by [davidkristianto](https://unsplash.com/@davidkristianto), [declansun](https://unsplash.com/@declansun), [CyberVault](https://alphacoders.com/users/profile/338679/CyberVault).
 - Icon SVG files from [Free SVG Download](https://www.freesvgdownload.com/labubu-free-svg-files/).
 - Built with love for plush toy enthusiasts everywhere.
 
