@@ -72,8 +72,8 @@ labubu-theme-browser-extension/
 - Similar structure to Chrome, adapted for Firefox's WebExtensions API.
 
 ### Background Images
-The extension includes 6 high-quality Labubu-themed background images:
-- `labubu-01.jpg` through `labubu-06.jpg`
+The extension includes 25 high-quality Labubu-themed background images:
+- `labubu-01.jpg` through `labubu-25.jpg`
 - Images are stored in the `images/` directory for each browser
 - Configured via `images.json` for easy management
 
@@ -111,7 +111,7 @@ This project is open source and available under the [Apache License 2.0](LICENSE
 
 ## 🙏 Acknowledgments
 
-- Images from Unsplash by [davidkristianto](https://unsplash.com/@davidkristianto), [declansun](https://unsplash.com/@declansun), [CyberVault](https://alphacoders.com/users/profile/338679/CyberVault).
+- Images from [Unsplash](https://unsplash.com/).
 - Icon SVG files from [Free SVG Download](https://www.freesvgdownload.com/labubu-free-svg-files/).
 - Built with love for plush toy enthusiasts everywhere.
 
