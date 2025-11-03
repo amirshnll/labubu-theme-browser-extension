@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Labubu Theme",
-  "version": "1.4.1",
-  "description": "Customize the New Tab background with Labubu images. Includes a search box that uses your default search engine, quick links, and a digital clock.",
+  "version": "1.4.3",
+  "description": "Customize New Tab background with Labubu images. Includes a search box that uses your default search engine, quick links, and clock",
   "permissions": [
     "storage",
     "search"
@@ -22,15 +22,5 @@
   },
   "chrome_url_overrides": {
     "newtab": "newtab.html"
-  },
-  "web_accessible_resources": [
-    {
-      "resources": [
-        "images/*"
-      ],
-      "matches": [
-        "<all_urls>"
-      ]
-    }
-  ]
+  }
 }
