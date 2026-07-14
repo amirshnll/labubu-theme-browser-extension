@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Labubu Theme",
-  "version": "1.4.3",
+  "version": "1.5.0",
   "description": "Customize New Tab background with Labubu images. Includes a search box that uses your default search engine, quick links, and clock",
   "permissions": [
     "storage",
